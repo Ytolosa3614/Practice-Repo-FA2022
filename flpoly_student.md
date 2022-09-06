@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Yariel Tolosa (or name you would preferred to be called)
 
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Course Analytic geometry and calculus 1
 
-- Course 2
+- Course 2 Intro to computation and programming 
 
-- Course 3
+- Course 3  Python for data analytics 
 
-- Course 4
+- Course 4 Introduciton to data science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Thing 1 Archery 
 
-- Thing 2
+- Thing 2 ultimate Frisbee
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+ Nerf-tech club
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2003/09/06
